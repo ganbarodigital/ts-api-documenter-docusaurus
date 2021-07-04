@@ -29,18 +29,8 @@ The following changes have been completed, and will be included in the next tagg
 
 ### Dependencies
 
-### Tools
-
-## v0.0.1
-
-Released Monday, 1st January 2020.
-
-### Backwards-Compatibility Breaks
-
-### New
-
-### Fixes
-
-### Dependencies
+* Added @microsoft/api-extractor-model
+* Added @microsoft/tsdoc
 
 ### Tools
+
