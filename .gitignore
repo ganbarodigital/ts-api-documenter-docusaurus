@@ -1,0 +1,10 @@
+.nyc_output
+.vscode
+coverage
+index.js
+index.js.map
+src/**/*.d.ts
+src/**/*.map
+lib
+node_modules
+tmp
