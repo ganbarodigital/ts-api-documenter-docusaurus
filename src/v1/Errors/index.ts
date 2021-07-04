@@ -31,3 +31,4 @@
 //
 
 export * from "./defaults/MODULE_NAME";
+export * from "./InvalidApiModelPathError";
