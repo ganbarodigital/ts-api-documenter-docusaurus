@@ -28,7 +28,8 @@
   "dependencies": {
     "@microsoft/api-extractor-model": "^7.13.3",
     "@microsoft/tsdoc": "^0.13.2",
-    "@safelytyped/core-types": "^0.3.0"
+    "@safelytyped/core-types": "^0.3.0",
+    "@safelytyped/filepath": "^0.1.1"
   },
   "devDependencies": {
     "@types/chai": "^4.2.8",

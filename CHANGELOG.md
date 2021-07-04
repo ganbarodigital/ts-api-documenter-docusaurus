@@ -31,3 +31,4 @@ The following changes have been completed, and will be included in the next tagg
 
 * Added @microsoft/api-extractor-model
 * Added @microsoft/tsdoc
+* Added @safelytyped/filepath
